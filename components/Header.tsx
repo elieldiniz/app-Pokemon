@@ -6,7 +6,7 @@ interface text{
 
 export default function Header(){
     return(
-        <header className=' bg-yellow-900 fixed top-0 left-0 right-0 flex justify-around items-center'>
+        <header className=' bg-yellow-900 fixed top-0 left-0 right-0 flex justify-around items-center shadow-lg shadow-cyan-500/50 '>
              <Image
             src="/image.svg"
             alt=""
